@@ -1,2 +1,2 @@
-#This is my local new strepo
-git 
+# This is my local new strepo.
+ 
