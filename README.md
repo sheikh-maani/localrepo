@@ -1,3 +1,3 @@
 # This is my local new repo.
-conflict test
+conflict test(button)
 
